@@ -87,10 +87,10 @@ DATABASES = {
 DATABASES={
        'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'atarek1200089',
-        'USER': 'ahmed1200089',
-        'PASSWORD': '992Ahmed992',
-        'HOST': 'atarek1200089.postgres.database.azure.com',
+        'NAME': 'ahmed1234',
+        'USER': 'ahmed1234',
+        'PASSWORD': '992Ahmed992@',
+        'HOST': 'ahmed1234.postgres.database.azure.com',
         'PORT': '5432',
         'OPTIONS':{'sslmode':'require'},
      }
