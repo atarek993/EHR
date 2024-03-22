@@ -1,4 +1,3 @@
-
 import os
 from pathlib import Path
 from django.contrib.messages import constants as messages
@@ -88,7 +87,7 @@ DATABASES = {
 DATABASES={
        'default': {
         'ENGINE': 'django.db.backends.postgresql',
-         'NAME': 'atarek1200089',
+        'NAME': 'atarek1200089',
         'USER': 'ahmed1200089',
         'PASSWORD': '992Ahmed992',
         'HOST': 'atarek1200089.postgres.database.azure.com',
